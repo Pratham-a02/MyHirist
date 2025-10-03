@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/userService/pom.xml" />
         <option value="$PROJECT_DIR$/postsService/pom.xml" />
         <option value="$PROJECT_DIR$/ConnectionService/pom.xml" />
+        <option value="$PROJECT_DIR$/DiscoveryServer/pom.xml" />
+        <option value="$PROJECT_DIR$/APIGateway/pom.xml" />
       </list>
     </option>
   </component>
